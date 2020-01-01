@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wahgoheew.100maratonu.lt/sitemap.xml
